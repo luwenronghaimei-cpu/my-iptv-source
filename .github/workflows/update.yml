@@ -2,16 +2,21 @@ name: Auto Update IPTV
 
 on:
   schedule:
-    - cron: '0 2 * * *' # 每天 UTC 时间 2:00（北京时间上午 10:00）自动运行
-  workflow_dispatch: # 允许手动点击运行
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+# 新增权限配置，允许 GitHub Actions 向当前仓库写入生成的文件
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+    # 升级为 v4/v5 版本，消除 Node.js 弃用警告
+    - uses: actions/checkout@v4
     - name: Set up Python
-      uses: actions/setup-python@v3
+      uses: actions/setup-python@v5
       with:
         python-version: '3.10'
     - name: Install dependencies
@@ -22,6 +27,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add tvb_live.txt
+        # 使用 *.txt 自动匹配生成的文本文件，避免文件名写错
+        git add *.txt
         git commit -m "Auto update live sources" || exit 0
         git push
