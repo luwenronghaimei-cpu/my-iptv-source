@@ -1,0 +1,27 @@
+name: Auto Update IPTV
+
+on:
+  schedule:
+    - cron: '0 2 * * *' # 每天 UTC 时间 2:00（北京时间上午 10:00）自动运行
+  workflow_dispatch: # 允许手动点击运行
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python
+      uses: actions/setup-python@v3
+      with:
+        python-version: '3.10'
+    - name: Install dependencies
+      run: pip install requests
+    - name: Run Python script
+      run: python update.py
+    - name: Commit and Push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add tvb_live.txt
+        git commit -m "Auto update live sources" || exit 0
+        git push
