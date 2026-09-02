@@ -30,6 +30,52 @@ TVB 功夫台,https://cdn.qd.je/163189/yzwx
 TVB 星河台,https://cdn.qd.je/163189/tvbxh
 TVB 星河台,https://cdn.qd.je/163189/xinghe
 TVB 星河台,https://cdn.qd.je/163189/tvbxh2
+TVBS精采台,http://4gtv.cnlive.club/channel/49d50255/index.m3u8?q=1784702901150
+TVBS新聞,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1784702901150
+TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1784702901150
+TVBS歡樂台,http://4gtv.cnlive.club/channel/498f035d/index.m3u8?q=1784702901150
+TVBS綜藝台,http://4gtv.cnlive.club/channel/49d6d25d/index.m3u8?q=1784702901150
+TVBS台劇台,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1784702901150
+翡翠台,http://play.wenxiang.cn/live/e240363d284b6f41fcb7136eef507ef6.flv
+TVBPlus,http://play.wenxiang.cn/live/5ec77f27f37babab48d60b879fde862a.flv
+黄金翡翠台,https://play.wenxiang.cn/live/0389d29514f0290d6c774eb18f0d604a.flv
+TVB新闻,https://cdn6.cc.cd/163189/wxxw
+TVB星河,https://cdn6.cc.cd/163189/tvbxh
+TVB亚洲武侠,https://cdn6.cc.cd/163189/yzwx
+TVB娱乐新闻台,https://cdn6.cc.cd/163189/ylxw
+TVB1,https://cdn6.cc.cd/163189/tvb1
+TVBJ1,https://cdn6.cc.cd/163189/j1
+翡翠台,https://cdn6.cc.cd/163189/fct
+凤凰香港,https://cdn6.cc.cd/163189/fhhk
+凤凰中文,https://cdn6.cc.cd/163189/fhzw
+凤凰资讯,https://cdn6.cc.cd/163189/fhzx
+华丽翡翠台,https://cdn6.cc.cd/163189/hlfct
+华丽翡翠台,https://cdn6.cc.cd/163189/jade
+无线新闻台,https://cdn6.cc.cd/163189/wxxwt
+TVB星河,https://cdn3.indevs.in/stream/live/tvbxh/
+TVBPlus,https://cdn3.indevs.in/stream/tvb/tvbp/
+翡翠台4K字幕,https://cdn3.indevs.in/stream/tvb/fct4k/
+翡翠台字幕,https://cdn3.indevs.in/stream/tvb/fct/
+华丽翡翠台,https://cdn3.indevs.in/stream/live/hlt/
+华丽翡翠台新加坡,https://cdn3.indevs.in/stream/live/jade/
+TVB娱乐新闻台,https://cdn.qd.je/163189/ylxw
+TVBS新闻,http://jnzq.ohoyee.com:9080/live/332332-tvbsxw.m3u8
+tvbs,http://61.221.215.25:8800/hls/9/index.m3u8
+TVBS Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+翡翠台@,http://c.123.rr.kg/163189/fct
+华丽翡翠台(硬字幕)@,http://c.123.rr.kg/163189/jade
+无线新闻台@,http://c.123.rr.kg/163189/wxxw
+凤凰中文@,http://c.123.rr.kg/163189/fhzw
+凤凰资讯@,http://c.123.rr.kg/163189/fhzx
+凤凰香港@,http://c.123.rr.kg/163189/fhhk
+TVB1@,http://c.123.rr.kg/163189/tvb1
+TVBJ1@,http://c.123.rr.kg/163189/j1
+翡翠剧集台@,http://c.123.rr.kg/163189/tvbd
+华丽翡翠台@,http://c.123.rr.kg/163189/hlfct
+TVB亚洲武侠@,http://c.123.rr.kg/163189/yzwx
+TVB娱乐新闻台@,http://c.123.rr.kg/163189/ylxw
+无线新闻台@,http://c.123.rr.kg/163189/wxxwt
+TVB星河@,http://c.123.rr.kg/163189/tvbxh
 央视频道,#genre#
 CCTV 1 綜合「Relay」,https://iptv.yang-1989.xyz/cn/mt4sa5?token=33f85d3ab19bcb53c9d652c3e133d726fe741deb12931d06
 CCTV 5 體育「Relay」,https://iptv.yang-1989.xyz/cn/7fqc7a?token=33f85d3ab19bcb53c9d652c3e133d726fe741deb12931d06
@@ -58,4 +104,205 @@ CCTV15,https://php.jdshipin.com/TVOD/iptv.php?id=cctv15
 CCTV16,https://php.jdshipin.com/TVOD/iptv.php?id=cctv16
 CCTV16,https://cdn.qd.je/163189/cctv16-2
 CCTV17,https://php.jdshipin.com/TVOD/iptv.php?id=cctv17
+CCTV1,http://45.192.97.170:8880/play/1.m3u8
+CCTV5,http://45.192.97.170:8880/play/5.m3u8
+CCTV5+,http://45.192.97.170:8880/play/6.m3u8
+CCTV10,http://45.192.97.170:8880/play/11.m3u8
+CCTV11,http://45.192.97.170:8880/play/12.m3u8
+CCTV12,http://45.192.97.170:8880/play/13.m3u8
+CCTV13,http://45.192.97.170:8880/play/14.m3u8
+CCTV14,http://45.192.97.170:8880/play/15.m3u8
+CCTV15,http://45.192.97.170:8880/play/16.m3u8
+CCTV17,http://45.192.97.170:8880/play/17.m3u8
+CCTV1@,http://f.123.rr.kg/163189/cctv1
+CCTV5@,http://f.123.rr.kg/163189/cctv5
+CCTV5@,http://f.123.rr.kg/163189/cctv5-2
+CCTV5+@,http://f.123.rr.kg/163189/cctv5p
+CCTV5+@,http://f.123.rr.kg/163189/cctv5p-2
+CCTV10@,http://f.123.rr.kg/163189/cctv10
+CCTV11@,http://f.123.rr.kg/163189/cctv11
+CCTV12@,http://f.123.rr.kg/163189/cctv12
+CCTV13@,http://f.123.rr.kg/163189/cctv13
+CCTV14@,http://f.123.rr.kg/163189/cctv14
+CCTV15@,http://f.123.rr.kg/163189/cctv15
+CCTV16@,http://f.123.rr.kg/163189/cctv16
+CCTV16@,http://f.123.rr.kg/163189/cctv16-2
+CCTV17@,http://f.123.rr.kg/163189/cctv17
+CCTV1综合,http://120.48.113.49:6006/608807420
+CCTV5体育,http://120.48.113.49:6006/641886683
+CCTV5+体育赛事,http://120.48.113.49:6006/641886773
+CCTV10科教,http://120.48.113.49:6006/624878405
+CCTV11戏曲,http://120.48.113.49:6006/667987558
+CCTV12社会与法,http://120.48.113.49:6006/673168185
+CCTV13新闻,http://120.48.113.49:6006/608807423
+CCTV14少儿,http://120.48.113.49:6006/624878440
+CCTV15音乐,http://120.48.113.49:6006/673168223
+CCTV17农业农村,http://120.48.113.49:6006/673168256
+CCTV1港澳版@,http://c.123.rr.kg/163189/cctv1
+CCTV1,http://111.29.9.33:6610/000000001000/1000000001000021973/index.m3u8?channel-id=bestzb&Contentid=1000000001000021973&livemode=1&stbId=3
+CCTV5+,http://111.29.9.33:6610/000000001000/1000000001000020505/index.m3u8?channel-id=bestzb&Contentid=1000000001000020505&livemode=1&stbId=3
+CCTV5,http://111.29.9.33:6610/000000001000/1000000001000004794/index.m3u8?channel-id=bestzb&Contentid=1000000001000004794&livemode=1&stbId=3
+CCTV10,http://111.29.9.33:6610/000000001000/1000000001000023734/index.m3u8?channel-id=bestzb&Contentid=1000000001000023734&livemode=1&stbId=3
+CCTV11,http://111.29.9.33:6610/000000001000/1000000002000019789/index.m3u8?channel-id=bestzb&Contentid=1000000002000019789&livemode=1&stbId=3
+CCTV12,http://111.29.9.33:6610/000000001000/1000000001000001640/index.m3u8?channel-id=bestzb&Contentid=1000000001000001640&livemode=1&stbId=3
+CCTV13,http://111.29.9.33:6610/000000001000/1000000002000021303/index.m3u8?channel-id=bestzb&Contentid=1000000002000021303&livemode=1&stbId=3
+CCTV14,http://111.29.9.33:6610/000000001000/1000000001000008170/index.m3u8?channel-id=bestzb&Contentid=1000000001000008170&livemode=1&stbId=3
+CCTV15,http://111.29.9.33:6610/000000001000/1000000002000008163/index.m3u8?channel-id=bestzb&Contentid=1000000002000008163&livemode=1&stbId=3
+CCTV17,http://111.29.9.33:6610/000000001000/1000000005000056836/index.m3u8?channel-id=bestzb&Contentid=1000000005000056836&livemode=1&stbId=3
+CCTV1,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=yu&mode=1&$8M
+CCTV1,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000010000030810&livemode=1&stbId=yu&mode=1&$4M
+CCTV1,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=yu&mode=1&$8M
+CCTV1,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=yu&mode=1&$4M
+CCTV1,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=yu&mode=1&$6M
+CCTV1,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=reallive-cctv1&livemode=1&stbId=yu&mode=1&$2M
+CCTV1,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000001000004953&livemode=1&stbId=yu&mode=1&$4M
+CCTV1,http://111.29.9.35:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
+CCTV5,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000010000016619&livemode=1&stbId=yu&mode=1&$4M
+CCTV5,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=yu&mode=1&$4M
+CCTV5,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265005&livemode=1&stbId=yu&mode=1&$6M
+CCTV5+,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=yu&mode=1&$8M
+CCTV5+,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=yu&mode=1&$4M
+CCTV5+,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
+CCTV10,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000004000012827&livemode=1&stbId=yu&mode=1&$8M
+CCTV10,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000010000016738&livemode=1&stbId=yu&mode=1&$4M
+CCTV10,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023734&livemode=1&stbId=yu&mode=1&$8M
+CCTV10,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000026367&livemode=1&stbId=yu&mode=1&$4M
+CCTV10,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265010&livemode=1&stbId=yu&mode=1&$6M
+CCTV10,http://111.29.9.38:6610/000000001000/1000000001000023734/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023734&livemode=1&stbId=3
+CCTV11,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000006000040011&livemode=1&stbId=yu&mode=1&$4M
+CCTV11,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=yu&mode=1&$8M
+CCTV11,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=yu&mode=1&$4M
+CCTV11,http://111.29.9.37:6610/000000001000/1000000002000019789/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT
+CCTV12,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000006000040012&livemode=1&stbId=yu&mode=1&$4M
+CCTV12,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000011000031107&livemode=1&stbId=yu&mode=1&$8M
+CCTV12,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001640&livemode=1&stbId=yu&mode=1&$4M
+CCTV12,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000032494&livemode=1&stbId=yu&mode=1&$8M
+CCTV12,http://111.29.9.39:6610/000000001000/1000000001000032494/index.m3u8?channel-id=ystenlive&Contentid=1000000001000032494&livemode=1&stbId=3
+CCTV13,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000005000001827&livemode=1&stbId=yu&mode=1&$4M
+CCTV13,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=yu&mode=1&$8M
+CCTV13,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=yu&mode=1&$4M
+CCTV13,http://111.29.9.35:6610/000000001000/1000000002000021303/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=3
+CCTV14,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000004000006673&livemode=1&stbId=yu&mode=1&$8M
+CCTV14,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000010000023358&livemode=1&stbId=yu&mode=1&$4M
+CCTV14,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000008170&livemode=1&stbId=yu&mode=1&$8M
+CCTV14,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021349&livemode=1&stbId=yu&mode=1&$4M
+CCTV14,http://111.29.9.36:6610/000000001000/5000000004000006673/index.m3u8?channel-id=bestzb&Contentid=5000000004000006673&livemode=1&stbId=3
+CCTV15,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000005000018417&livemode=1&stbId=yu&mode=1&$4M
+CCTV15,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=yu&mode=1&$8M
+CCTV15,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=yu&mode=1&$4M
+CCTV15,http://111.29.9.36:6610/000000001000/1000000002000008163/index.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=3
+CCTV16,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233001&livemode=1&stbId=yu&mode=1&$4M
+CCTV16,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1&stbId=yu&mode=1&$8M
+CCTV17,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000011000288014&livemode=1&stbId=yu&mode=1&$8M
+CCTV17,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=yu&mode=1&$4M
+CCTV17,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268004&livemode=1&stbId=yu&mode=1&$8M
+咪咕频道,#genre#
+咪視界 𝟜𝕂-𝟙,https://migu.yang-1989.xyz/migu/4K?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+咪視界 𝟜𝕂-𝟚,https://migu.yang-1989.xyz/migu/4K-2?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+咪視界 𝟙,https://migu.yang-1989.xyz/migu/𝟙?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+咪視界 𝟚,https://migu.yang-1989.xyz/migu/𝟚?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+咪視界 𝟛,https://migu.yang-1989.xyz/migu/𝟛?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+咪視界 𝟜,https://migu.yang-1989.xyz/migu/𝟜?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+咪視界 𝟝,https://migu.yang-1989.xyz/migu/𝟝?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+咪視界 𝟞,https://migu.yang-1989.xyz/migu/𝟞?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+咪視界 𝟟,https://migu.yang-1989.xyz/migu/𝟟?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+咪視界 𝟠,https://migu.yang-1989.xyz/migu/𝟠?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+咪視界 𝟡,https://migu.yang-1989.xyz/migu/𝟡?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+咪視界 𝟙𝟘,https://migu.yang-1989.xyz/migu/𝟙𝟘?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+咪視界 𝟙𝟙,https://migu.yang-1989.xyz/migu/𝟙𝟙?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+咪視界 𝟙𝟚,https://migu.yang-1989.xyz/migu/𝟙𝟚?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+咪視界 𝟙𝟛,https://migu.yang-1989.xyz/migu/𝟙𝟛?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+咪視界 𝟙𝟜,https://migu.yang-1989.xyz/migu/𝟙𝟜?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+咪視界 𝟙𝟝,https://migu.yang-1989.xyz/migu/𝟙𝟝?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+咪視界 𝟙𝟞,https://migu.yang-1989.xyz/migu/𝟙𝟞?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+咪視界 𝟙𝟟,https://migu.yang-1989.xyz/migu/𝟙𝟟?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+咪視界 𝟙𝟠,https://migu.yang-1989.xyz/migu/𝟙𝟠?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+咪視界 𝟙𝟡,https://migu.yang-1989.xyz/migu/𝟙𝟡?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+咪視界 𝟚𝟘,https://migu.yang-1989.xyz/migu/𝟚𝟘?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+咪視界 𝟚𝟙,https://migu.yang-1989.xyz/migu/𝟚𝟙?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+咪視界 𝟚𝟚,https://migu.yang-1989.xyz/migu/𝟚𝟚?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+咪視界 𝟚𝟛,https://migu.yang-1989.xyz/migu/𝟚𝟛?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+咪視界 𝟚𝟜,https://migu.yang-1989.xyz/migu/𝟚𝟜?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+咪視界 𝟚𝟝,https://migu.yang-1989.xyz/migu/𝟚𝟝?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+咪視界 𝟚𝟞,https://migu.yang-1989.xyz/migu/𝟚𝟞?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+咪視界 𝟚𝟟,https://migu.yang-1989.xyz/migu/𝟚𝟟?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+咪視界 𝟚𝟠,https://migu.yang-1989.xyz/migu/𝟚𝟠?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+咪視界 𝟚𝟡,https://migu.yang-1989.xyz/migu/𝟚𝟡?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+咪視界 𝟛𝟘,https://migu.yang-1989.xyz/migu/𝟛𝟘?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+咪視界 𝟛𝟙,https://migu.yang-1989.xyz/migu/𝟛𝟙?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+咪視界 𝟛𝟚,https://migu.yang-1989.xyz/migu/𝟛𝟚?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+咪視界 𝟛𝟛,https://migu.yang-1989.xyz/migu/𝟛𝟛?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+咪視界 𝟛𝟜,https://migu.yang-1989.xyz/migu/𝟛𝟜?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+咪視界 𝟛𝟝,https://migu.yang-1989.xyz/migu/𝟛𝟝?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+咪視界 𝟛𝟞,https://migu.yang-1989.xyz/migu/𝟛𝟞?token=21772488327c5102822e3031d4eb8f4b8ab7e4470581befc
+睛彩广场舞「Relay」,https://iptv.yang-1989.xyz/cn/z362rf?token=33f85d3ab19bcb53c9d652c3e133d726fe741deb12931d06
+睛彩青少「Relay」,https://iptv.yang-1989.xyz/cn/yanx8q?token=33f85d3ab19bcb53c9d652c3e133d726fe741deb12931d06
+睛彩竞技「Relay」,https://iptv.yang-1989.xyz/cn/bfpxcv?token=33f85d3ab19bcb53c9d652c3e133d726fe741deb12931d06
+睛彩篮球「Relay」,https://iptv.yang-1989.xyz/cn/3vdgr4?token=33f85d3ab19bcb53c9d652c3e133d726fe741deb12931d06
+NewTV睛彩竞技,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=yu&mode=1&$8M
+NewTV睛彩竞技,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000006000270001&livemode=1&stbId=yu&mode=1&$8M
+NewTV睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=yu&mode=1&$8M
+NewTV睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000006000270002&livemode=1&stbId=yu&mode=1&$8M
+NewTV睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000006000270006&livemode=1&stbId=yu&mode=1&$8M
+NewTV睛彩青少,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=yu&mode=1&$8M
+NewTV睛彩青少,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000031315&livemode=1&stbId=yu&mode=1&$8M
+NewTV睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=yu&mode=1&$8M
+NewTV睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=yu&mode=1&$8M
+NewTV睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000006000270003&livemode=1&stbId=yu&mode=1&$8M
+NewTV睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000006000270005&livemode=1&stbId=yu&mode=1&$8M
+Github「使用说明」,https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/hosts.txt
+睛彩广场舞「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
+睛彩青少「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
+睛彩竞技「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
+睛彩篮球「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989
+咪咕直播 𝟜𝕂-𝟙「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
+咪咕直播 𝟜𝕂-𝟚「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
+咪咕直播 𝟜「移动」,http://gslbserv.itv.cmvideo.cn//index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
+咪咕直播 𝟝「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989
+咪咕直播 𝟞「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989
+咪咕直播 𝟟「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989
+咪咕直播 𝟠「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989
+咪咕直播 𝟡「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟘「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟙「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟚「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟛「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟜「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟝「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟞「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟟「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟠「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟡「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟘「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟙「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟚「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟛「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟜「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟝「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟞「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟟「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟠「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟡「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟘「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟙「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟚「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟛「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟜「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟝「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟞「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
+广东频道,#genre#
+廣東衛視「Relay」,https://iptv.yang-1989.xyz/cn/5b2wnv?token=33f85d3ab19bcb53c9d652c3e133d726fe741deb12931d06
 广东珠江,https://cdn.qd.je/163189/gdzj
+广东体育,https://cdn.qd.je/163189/gdty
+广东卫视,http://45.192.97.170:8880/play/28.m3u8
+广东卫视,http://120.48.113.49:6006/608831231
+广东卫视,http://111.29.9.33:6610/000000001000/1000000001000014176/index.m3u8?channel-id=bestzb&Contentid=1000000001000014176&livemode=1&stbId=3
+广东卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=5616881981321254555&livemode=1&stbId=yu&mode=1&$2M
+广东卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000010000030417&livemode=1&stbId=yu&mode=1&$4M
+广东卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000014694&livemode=1&stbId=yu&mode=1&$8M
+广东卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000014176&livemode=1&stbId=yu&mode=1&$8M
+广东卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000028357&livemode=1&stbId=yu&mode=1&$4M
+广东卫视,http://111.29.9.36:6610/000000001000/1000000001000028357/index.m3u8?channel-id=ystenlive&Contentid=1000000001000028357&livemode=1&stbId=3
