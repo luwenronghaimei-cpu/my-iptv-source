@@ -2,9 +2,11 @@ import requests
 import time
 
 # 目标数据源（常见的开源直播 m3u 聚合项目）
+# 目标数据源：替换为更新更频繁的综合源
 SOURCES = [
-    "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hk.m3u",
-    "https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"
+    "https://live.fanmingming.com/tv/m3u/global.m3u",
+    "https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+    "https://raw.githubusercontent.com/vbsky/TVBox/main/tv/iptv.m3u"
 ]
 
 # 需要提取的频道关键词
