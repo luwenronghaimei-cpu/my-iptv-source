@@ -9,7 +9,7 @@ SOURCES = [
 # 扩大关键词范围，兼容繁体和英文大小写
 CATEGORIES = {
     "港澳频道": ["无线新闻", "無綫新聞", "tvb", "明珠", "翡翠", "凤凰"],
-    "央视频道": ["cctv1", "cctv-1", "cctv13", "cctv-13", "cctv5", "cctv-5"]
+    "央视频道": ["cctv1", "cctv-1", "cctv13", "cctv-13", "cctv5", "cctv-5", "广东珠江"]
 }
 
 def fetch_and_parse():
