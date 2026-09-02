@@ -58,3 +58,4 @@ CCTV15,https://php.jdshipin.com/TVOD/iptv.php?id=cctv15
 CCTV16,https://php.jdshipin.com/TVOD/iptv.php?id=cctv16
 CCTV16,https://cdn.qd.je/163189/cctv16-2
 CCTV17,https://php.jdshipin.com/TVOD/iptv.php?id=cctv17
+广东珠江,https://cdn.qd.je/163189/gdzj
