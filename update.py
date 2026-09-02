@@ -3,15 +3,15 @@ import requests
 SOURCES = [
     "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hk.m3u",
     "https://iptv.yang-1989.xyz/playlist.m3u",
-    "https://live.445569.xyz/live.m3u"
+    "https://live.445569.xyz/live.m3u",
     "https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Migu.m3u"
 ]
 
 # 扩大关键词范围，兼容繁体和英文大小写
 CATEGORIES = {
     "港澳频道": ["无线新闻", "無綫新聞", "tvb", "明珠", "翡翠", "NOW","凤凰"],
-    "央视频道": ["cctv1", "cctv-1", "cctv13", "cctv-13", "cctv5", "cctv-5" ]
-    "咪咕频道": ["睛彩", "咪咕体育"]
+    "央视频道": ["cctv1", "cctv-1", "cctv13", "cctv-13", "cctv5", "cctv-5" ],
+    "咪咕频道": ["睛彩", "咪咕体育"],
     "广东频道": ["广东珠江", "广东"]
 }
 
