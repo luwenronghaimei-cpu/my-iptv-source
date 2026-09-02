@@ -23,11 +23,12 @@ jobs:
       run: pip install requests
     - name: Run Python script
       run: python update.py
-    - name: Commit and Push changes
+- name: Commit and Push changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        # 使用 *.txt 自动匹配生成的文本文件，避免文件名写错
-        git add *.txt
-        git commit -m "Auto update live sources" || exit 0
+        # 使用 git add . 代替 git add *.txt，这样即使没生成新文件也不会报错
+        git add .
+        # 如果没有文件变动，就输出提示并继续，不要当做错误中断
+        git commit -m "Auto update live sources" || echo "No changes to commit"
         git push
