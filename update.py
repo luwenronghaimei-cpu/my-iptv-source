@@ -2,8 +2,8 @@ import requests
 
 SOURCES = [
     "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hk.m3u",
-    "https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
-    "https://raw.githubusercontent.com/vbsky/TVBox/main/tv/iptv.m3u"
+    "https://iptv.yang-1989.xyz/playlist.m3u",
+    "https://live.445569.xyz/live.m3u"
 ]
 
 # 扩大关键词范围，兼容繁体和英文大小写
