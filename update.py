@@ -4,8 +4,8 @@ import requests
 SOURCES = [
     "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hk.m3u",
     "https://iptv.yang-1989.xyz/playlist.m3u",
-    "https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Migu.m3u"，
-    "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hk.m3u"
+    "https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Migu.m3u"
+
 ]
 
 # 2. 在这里定义你【真正想要保留】的分类和提取关键词。
