@@ -5,13 +5,14 @@ import re
 SOURCES = [
     "https://iptv.yang-1989.xyz/playlist.m3u",
     "https://php.946985.filegear-sg.me/jackTV.m3u",
+    "https://live.445569.xyz/live.m3u",
     "https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Migu.m3u"
 
 ]
 
 # 2. 定义【需要单独提取】的分类和关键词（已加入咪咕频道）
 CATEGORIES = {
-    "广东频道": [ "珠江"],
+    "广东频道": [ "CCTV", "珠江"],
     "港澳频道": ["无线新闻", "無綫新聞", "NOW", "凤凰"],
     "咪咕频道": ["咪咕", "migu", "睛彩"]
 }
