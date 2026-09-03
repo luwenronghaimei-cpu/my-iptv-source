@@ -3,9 +3,8 @@ import re
 
 # 1. 在这里填入你所有的源地址（无论它是 TXT 还是 M3U 格式，都可以混在一起写）
 SOURCES = [
-    "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hk.m3u",
     "https://iptv.yang-1989.xyz/playlist.m3u",
-    "https://live.445569.xyz/live.m3u",
+    "https://php.946985.filegear-sg.me/jackTV.m3u",
     "https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Migu.m3u"
 
 ]
