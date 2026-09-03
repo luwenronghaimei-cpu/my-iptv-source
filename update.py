@@ -3,7 +3,6 @@ import requests
 SOURCES = [
     "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hk.m3u",
     "https://iptv.yang-1989.xyz/playlist.m3u",
-    "https://live.445569.xyz/live.m3u",
     "https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Migu.m3u"
 ]
 
