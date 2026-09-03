@@ -6,6 +6,7 @@ SOURCES = [
     "https://iptv.yang-1989.xyz/playlist.m3u",
     "https://php.946985.filegear-sg.me/jackTV.m3u",
     "https://live.445569.xyz/live.m3u",
+    "https://raw.githubusercontent.com/luwenronghaimei-cpu/luwen-tv/refs/heads/main/jackTV.m3u",
     "https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Migu.m3u"
 
 ]
