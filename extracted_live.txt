@@ -1,22 +1,22 @@
 广东频道,#genre#
-CCTV 1 綜合「Relay」,https://iptv.yang-1989.xyz/cn/7n4duh.m3u8?token=85822fb608e8b171d71063128086b8cc3d9b07eb74bcb944
-CCTV 2 財經「Relay」,https://iptv.yang-1989.xyz/cn/27m2d9.m3u8?token=85822fb608e8b171d71063128086b8cc3d9b07eb74bcb944
-CCTV 3 綜藝「Relay」,https://iptv.yang-1989.xyz/cn/gspaqt.m3u8?token=85822fb608e8b171d71063128086b8cc3d9b07eb74bcb944
-CCTV 4 中文國際「Relay」,https://iptv.yang-1989.xyz/cn/kubscs.m3u8?token=85822fb608e8b171d71063128086b8cc3d9b07eb74bcb944
-CCTV 5 體育「Relay」,https://iptv.yang-1989.xyz/cn/zaj7ae.m3u8?token=85822fb608e8b171d71063128086b8cc3d9b07eb74bcb944
-CCTV 5+ 體育賽事「Relay」,https://iptv.yang-1989.xyz/cn/tvjpfu.m3u8?token=85822fb608e8b171d71063128086b8cc3d9b07eb74bcb944
-CCTV 6 電影「Relay」,https://iptv.yang-1989.xyz/cn/vff4yc.m3u8?token=85822fb608e8b171d71063128086b8cc3d9b07eb74bcb944
-CCTV 7 國防軍事「Relay」,https://iptv.yang-1989.xyz/cn/z4f4g7.m3u8?token=85822fb608e8b171d71063128086b8cc3d9b07eb74bcb944
-CCTV 8 電視劇「Relay」,https://iptv.yang-1989.xyz/cn/22hc2j.m3u8?token=85822fb608e8b171d71063128086b8cc3d9b07eb74bcb944
-CCTV 9 記錄「Relay」,https://iptv.yang-1989.xyz/cn/uctvpa.m3u8?token=85822fb608e8b171d71063128086b8cc3d9b07eb74bcb944
-CCTV 10 科教「Relay」,https://iptv.yang-1989.xyz/cn/aj7ge5.m3u8?token=85822fb608e8b171d71063128086b8cc3d9b07eb74bcb944
-CCTV 11 戲曲「Relay」,https://iptv.yang-1989.xyz/cn/fdmqrx.m3u8?token=85822fb608e8b171d71063128086b8cc3d9b07eb74bcb944
-CCTV 12 社會與法「Relay」,https://iptv.yang-1989.xyz/cn/cngmzv.m3u8?token=85822fb608e8b171d71063128086b8cc3d9b07eb74bcb944
-CCTV 13 新聞「Relay」,https://iptv.yang-1989.xyz/cn/t5j5zr.m3u8?token=85822fb608e8b171d71063128086b8cc3d9b07eb74bcb944
-CCTV 14 少兒「Relay」,https://iptv.yang-1989.xyz/cn/ujjzja.m3u8?token=85822fb608e8b171d71063128086b8cc3d9b07eb74bcb944
-CCTV 15 音樂「Relay」,https://iptv.yang-1989.xyz/cn/f4masy.m3u8?token=85822fb608e8b171d71063128086b8cc3d9b07eb74bcb944
-CCTV 16 奧林匹克「Relay」,https://iptv.yang-1989.xyz/cn/gj9yss.m3u8?token=85822fb608e8b171d71063128086b8cc3d9b07eb74bcb944
-CCTV 17 農村農業「Relay」,https://iptv.yang-1989.xyz/cn/y4eshh.m3u8?token=85822fb608e8b171d71063128086b8cc3d9b07eb74bcb944
+CCTV 1 綜合「Relay」,https://iptv.yang-1989.xyz/cn/bj3b8f.m3u8?token=a1d348c856c84966f303b4e516d615fc93c7be6a8d24c2f8
+CCTV 2 財經「Relay」,https://iptv.yang-1989.xyz/cn/qmmc5u.m3u8?token=a1d348c856c84966f303b4e516d615fc93c7be6a8d24c2f8
+CCTV 3 綜藝「Relay」,https://iptv.yang-1989.xyz/cn/bunm8k.m3u8?token=a1d348c856c84966f303b4e516d615fc93c7be6a8d24c2f8
+CCTV 4 中文國際「Relay」,https://iptv.yang-1989.xyz/cn/e7t937.m3u8?token=a1d348c856c84966f303b4e516d615fc93c7be6a8d24c2f8
+CCTV 5 體育「Relay」,https://iptv.yang-1989.xyz/cn/daprf6.m3u8?token=a1d348c856c84966f303b4e516d615fc93c7be6a8d24c2f8
+CCTV 5+ 體育賽事「Relay」,https://iptv.yang-1989.xyz/cn/2pnsvx.m3u8?token=a1d348c856c84966f303b4e516d615fc93c7be6a8d24c2f8
+CCTV 6 電影「Relay」,https://iptv.yang-1989.xyz/cn/trrt7d.m3u8?token=a1d348c856c84966f303b4e516d615fc93c7be6a8d24c2f8
+CCTV 7 國防軍事「Relay」,https://iptv.yang-1989.xyz/cn/b4vd8u.m3u8?token=a1d348c856c84966f303b4e516d615fc93c7be6a8d24c2f8
+CCTV 8 電視劇「Relay」,https://iptv.yang-1989.xyz/cn/4saa5y.m3u8?token=a1d348c856c84966f303b4e516d615fc93c7be6a8d24c2f8
+CCTV 9 記錄「Relay」,https://iptv.yang-1989.xyz/cn/heynkj.m3u8?token=a1d348c856c84966f303b4e516d615fc93c7be6a8d24c2f8
+CCTV 10 科教「Relay」,https://iptv.yang-1989.xyz/cn/vfvnhf.m3u8?token=a1d348c856c84966f303b4e516d615fc93c7be6a8d24c2f8
+CCTV 11 戲曲「Relay」,https://iptv.yang-1989.xyz/cn/gztrnh.m3u8?token=a1d348c856c84966f303b4e516d615fc93c7be6a8d24c2f8
+CCTV 12 社會與法「Relay」,https://iptv.yang-1989.xyz/cn/mvxp4g.m3u8?token=a1d348c856c84966f303b4e516d615fc93c7be6a8d24c2f8
+CCTV 13 新聞「Relay」,https://iptv.yang-1989.xyz/cn/jem2g8.m3u8?token=a1d348c856c84966f303b4e516d615fc93c7be6a8d24c2f8
+CCTV 14 少兒「Relay」,https://iptv.yang-1989.xyz/cn/kxj88k.m3u8?token=a1d348c856c84966f303b4e516d615fc93c7be6a8d24c2f8
+CCTV 15 音樂「Relay」,https://iptv.yang-1989.xyz/cn/5ax7bf.m3u8?token=a1d348c856c84966f303b4e516d615fc93c7be6a8d24c2f8
+CCTV 16 奧林匹克「Relay」,https://iptv.yang-1989.xyz/cn/wfy9tc.m3u8?token=a1d348c856c84966f303b4e516d615fc93c7be6a8d24c2f8
+CCTV 17 農村農業「Relay」,https://iptv.yang-1989.xyz/cn/tas3yn.m3u8?token=a1d348c856c84966f303b4e516d615fc93c7be6a8d24c2f8
 CCTV1,https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
 CCTV2,https://php.jdshipin.com/TVOD/iptv.php?id=cctv2
 CCTV3,https://php.jdshipin.com/TVOD/iptv.php?id=cctv3
@@ -40,19 +40,182 @@ CCTV16,https://php.jdshipin.com/TVOD/iptv.php?id=cctv16
 CCTV16,https://cdn.qd.je/163189/cctv16-2
 CCTV17,https://php.jdshipin.com/TVOD/iptv.php?id=cctv17
 广东珠江,https://cdn.qd.je/163189/gdzj
+CCTV1,http://45.192.97.170:8880/play/1.m3u8
+CCTV2,http://45.192.97.170:8880/play/2.m3u8
+CCTV3,http://45.192.97.170:8880/play/3.m3u8
+CCTV4,http://45.192.97.170:8880/play/4.m3u8
+CCTV5,http://45.192.97.170:8880/play/5.m3u8
+CCTV5+,http://45.192.97.170:8880/play/6.m3u8
+CCTV6,http://45.192.97.170:8880/play/7.m3u8
+CCTV7,http://45.192.97.170:8880/play/8.m3u8
+CCTV8,http://45.192.97.170:8880/play/9.m3u8
+CCTV9,http://45.192.97.170:8880/play/10.m3u8
+CCTV10,http://45.192.97.170:8880/play/11.m3u8
+CCTV11,http://45.192.97.170:8880/play/12.m3u8
+CCTV12,http://45.192.97.170:8880/play/13.m3u8
+CCTV13,http://45.192.97.170:8880/play/14.m3u8
+CCTV14,http://45.192.97.170:8880/play/15.m3u8
+CCTV15,http://45.192.97.170:8880/play/16.m3u8
+CCTV17,http://45.192.97.170:8880/play/17.m3u8
+CCTV4欧洲,http://45.192.97.170:8880/play/18.m3u8
+CCTV4美洲,http://45.192.97.170:8880/play/19.m3u8
+CCTV1@,http://f.123.rr.kg/163189/cctv1
+CCTV2@,http://f.123.rr.kg/163189/cctv2
+CCTV3@,http://f.123.rr.kg/163189/cctv3
+CCTV4@,http://f.123.rr.kg/163189/cctv4
+CCTV5@,http://f.123.rr.kg/163189/cctv5
+CCTV5@,http://f.123.rr.kg/163189/cctv5-2
+CCTV5+@,http://f.123.rr.kg/163189/cctv5p
+CCTV5+@,http://f.123.rr.kg/163189/cctv5p-2
+CCTV6@,http://f.123.rr.kg/163189/cctv6
+CCTV7@,http://f.123.rr.kg/163189/cctv7
+CCTV8@,http://f.123.rr.kg/163189/cctv8
+CCTV9@,http://f.123.rr.kg/163189/cctv9
+CCTV10@,http://f.123.rr.kg/163189/cctv10
+CCTV11@,http://f.123.rr.kg/163189/cctv11
+CCTV12@,http://f.123.rr.kg/163189/cctv12
+CCTV13@,http://f.123.rr.kg/163189/cctv13
+CCTV14@,http://f.123.rr.kg/163189/cctv14
+CCTV15@,http://f.123.rr.kg/163189/cctv15
+CCTV16@,http://f.123.rr.kg/163189/cctv16
+CCTV16@,http://f.123.rr.kg/163189/cctv16-2
+CCTV17@,http://f.123.rr.kg/163189/cctv17
+CCTV1综合,http://120.48.113.49:6006/608807420
+CCTV2财经,http://120.48.113.49:6006/631780532
+CCTV3综艺,http://120.48.113.49:6006/624878271
+CCTV4中文国际,http://120.48.113.49:6006/631780421
+CCTV5体育,http://120.48.113.49:6006/641886683
+CCTV5+体育赛事,http://120.48.113.49:6006/641886773
+CCTV6电影,http://120.48.113.49:6006/624878396
+CCTV7国防军事,http://120.48.113.49:6006/673168121
+CCTV8电视剧,http://120.48.113.49:6006/624878356
+CCTV9纪录,http://120.48.113.49:6006/673168140
+CCTV10科教,http://120.48.113.49:6006/624878405
+CCTV11戏曲,http://120.48.113.49:6006/667987558
+CCTV12社会与法,http://120.48.113.49:6006/673168185
+CCTV13新闻,http://120.48.113.49:6006/608807423
+CCTV14少儿,http://120.48.113.49:6006/624878440
+CCTV15音乐,http://120.48.113.49:6006/673168223
+CCTV17农业农村,http://120.48.113.49:6006/673168256
+CCTV4欧洲,http://120.48.113.49:6006/608807419
+CCTV4美洲,http://120.48.113.49:6006/608807416
+CCTV1,http://111.29.9.33:6610/000000001000/1000000001000021973/index.m3u8?channel-id=bestzb&Contentid=1000000001000021973&livemode=1&stbId=3
+CCTV2,http://111.29.9.33:6610/000000001000/1000000001000012442/index.m3u8?channel-id=bestzb&Contentid=1000000001000012442&livemode=1&stbId=3
+CCTV3,http://111.29.9.33:6610/000000001000/1000000001000011218/index.m3u8?channel-id=bestzb&Contentid=1000000001000011218&livemode=1&stbId=3
+CCTV4,http://111.29.9.33:6610/000000001000/1000000002000031664/index.m3u8?channel-id=bestzb&Contentid=1000000002000031664&livemode=1&stbId=3
+CCTV5+,http://111.29.9.33:6610/000000001000/1000000001000020505/index.m3u8?channel-id=bestzb&Contentid=1000000001000020505&livemode=1&stbId=3
+CCTV5,http://111.29.9.33:6610/000000001000/1000000001000004794/index.m3u8?channel-id=bestzb&Contentid=1000000001000004794&livemode=1&stbId=3
+CCTV6,http://111.29.9.33:6610/000000001000/1000000001000016466/index.m3u8?channel-id=bestzb&Contentid=1000000001000016466&livemode=1&stbId=3
+CCTV7,http://111.29.9.33:6610/000000001000/1000000001000017218/index.m3u8?channel-id=bestzb&Contentid=1000000001000017218&livemode=1&stbId=3
+CCTV8,http://111.29.9.33:6610/000000001000/1000000001000003736/index.m3u8?channel-id=bestzb&Contentid=1000000001000003736&livemode=1&stbId=3
+CCTV9,http://111.29.9.33:6610/000000001000/1000000001000014583/index.m3u8?channel-id=bestzb&Contentid=1000000001000014583&livemode=1&stbId=3
+CCTV10,http://111.29.9.33:6610/000000001000/1000000001000023734/index.m3u8?channel-id=bestzb&Contentid=1000000001000023734&livemode=1&stbId=3
+CCTV11,http://111.29.9.33:6610/000000001000/1000000002000019789/index.m3u8?channel-id=bestzb&Contentid=1000000002000019789&livemode=1&stbId=3
+CCTV12,http://111.29.9.33:6610/000000001000/1000000001000001640/index.m3u8?channel-id=bestzb&Contentid=1000000001000001640&livemode=1&stbId=3
+CCTV13,http://111.29.9.33:6610/000000001000/1000000002000021303/index.m3u8?channel-id=bestzb&Contentid=1000000002000021303&livemode=1&stbId=3
+CCTV14,http://111.29.9.33:6610/000000001000/1000000001000008170/index.m3u8?channel-id=bestzb&Contentid=1000000001000008170&livemode=1&stbId=3
+CCTV15,http://111.29.9.33:6610/000000001000/1000000002000008163/index.m3u8?channel-id=bestzb&Contentid=1000000002000008163&livemode=1&stbId=3
+CCTV17,http://111.29.9.33:6610/000000001000/1000000005000056836/index.m3u8?channel-id=bestzb&Contentid=1000000005000056836&livemode=1&stbId=3
+CCTV1,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=yu&mode=1&$8M
+CCTV1,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000010000030810&livemode=1&stbId=yu&mode=1&$4M
+CCTV1,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=yu&mode=1&$8M
+CCTV1,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=yu&mode=1&$4M
+CCTV1,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=yu&mode=1&$6M
+CCTV1,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=reallive-cctv1&livemode=1&stbId=yu&mode=1&$2M
+CCTV1,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000001000004953&livemode=1&stbId=yu&mode=1&$4M
+CCTV1,http://111.29.9.35:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
+CCTV2,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000005000031113&livemode=1&stbId=yu&mode=1&$4M
+CCTV2,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000011000031101&livemode=1&stbId=yu&mode=1&$8M
+CCTV2,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=yu&mode=1&$4M
+CCTV2,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=yu&mode=1&$8M
+CCTV2,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265002&livemode=1&stbId=yu&mode=1&$6M
+CCTV2,http://111.29.9.34:6610/000000001000/1000000001000012442/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=3
+CCTV3,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000002000020548&livemode=1&stbId=yu&mode=1&$4M
+CCTV3,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=yu&mode=1&$4M
+CCTV3,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=yu&mode=1&$6M
+CCTV3,http://111.29.9.38:6610/000000001000/1000000001000011218/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=3
+CCTV4,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000005000030093&livemode=1&stbId=yu&mode=1&$4M
+CCTV4,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=yu&mode=1&$8M
+CCTV4,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=yu&mode=1&$4M
+CCTV4,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=yu&mode=1&$6M
+CCTV4,http://111.29.9.40:6610/000000001000/5000000005000030093/index.m3u8?channel-id=bestzb&Contentid=5000000005000030093&livemode=1&stbId=3
+CCTV5,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000010000016619&livemode=1&stbId=yu&mode=1&$4M
+CCTV5,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=yu&mode=1&$4M
+CCTV5,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265005&livemode=1&stbId=yu&mode=1&$6M
+CCTV5+,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=yu&mode=1&$8M
+CCTV5+,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=yu&mode=1&$4M
+CCTV5+,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
+CCTV6,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000010000018433&livemode=1&stbId=yu&mode=1&$4M
+CCTV6,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=yu&mode=1&$4M
+CCTV6,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265006&livemode=1&stbId=yu&mode=1&$6M
+CCTV6,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6117099895556651277&livemode=1&stbId=yu&mode=1&$2M
+CCTV7,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000005000026715&livemode=1&stbId=yu&mode=1&$4M
+CCTV7,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000011000031104&livemode=1&stbId=yu&mode=1&$8M
+CCTV7,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000017218&livemode=1&stbId=yu&mode=1&$4M
+CCTV7,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000024341&livemode=1&stbId=yu&mode=1&$8M
+CCTV7,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265007&livemode=1&stbId=yu&mode=1&$6M
+CCTV7,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=yu&mode=1&$5M
+CCTV7,http://111.29.9.40:6610/000000001000/1000000001000017218/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017218&livemode=1&stbId=3
+CCTV8,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1&stbId=yu&mode=1&$4M
+CCTV8,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265008&livemode=1&stbId=yu&mode=1&$6M
+CCTV9,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000010000018384&livemode=1&stbId=yu&mode=1&$4M
+CCTV9,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000011000288020&livemode=1&stbId=yu&mode=1&$8M
+CCTV9,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=yu&mode=1&$8M
+CCTV9,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000028286&livemode=1&stbId=yu&mode=1&$4M
+CCTV9,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265009&livemode=1&stbId=yu&mode=1&$6M
+CCTV9,http://111.29.9.33:6610/000000001000/1000000001000028286/index.m3u8?channel-id=ystenlive&Contentid=1000000001000028286&livemode=1&stbId=3
+CCTV10,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000004000012827&livemode=1&stbId=yu&mode=1&$8M
+CCTV10,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000010000016738&livemode=1&stbId=yu&mode=1&$4M
+CCTV10,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023734&livemode=1&stbId=yu&mode=1&$8M
+CCTV10,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000026367&livemode=1&stbId=yu&mode=1&$4M
+CCTV10,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265010&livemode=1&stbId=yu&mode=1&$6M
+CCTV10,http://111.29.9.38:6610/000000001000/1000000001000023734/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023734&livemode=1&stbId=3
+CCTV11,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000006000040011&livemode=1&stbId=yu&mode=1&$4M
+CCTV11,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=yu&mode=1&$8M
+CCTV11,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=yu&mode=1&$4M
+CCTV11,http://111.29.9.37:6610/000000001000/1000000002000019789/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT
+CCTV12,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000006000040012&livemode=1&stbId=yu&mode=1&$4M
+CCTV12,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000011000031107&livemode=1&stbId=yu&mode=1&$8M
+CCTV12,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001640&livemode=1&stbId=yu&mode=1&$4M
+CCTV12,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000032494&livemode=1&stbId=yu&mode=1&$8M
+CCTV12,http://111.29.9.39:6610/000000001000/1000000001000032494/index.m3u8?channel-id=ystenlive&Contentid=1000000001000032494&livemode=1&stbId=3
+CCTV13,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000005000001827&livemode=1&stbId=yu&mode=1&$4M
+CCTV13,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=yu&mode=1&$8M
+CCTV13,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=yu&mode=1&$4M
+CCTV13,http://111.29.9.35:6610/000000001000/1000000002000021303/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=3
+CCTV14,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000004000006673&livemode=1&stbId=yu&mode=1&$8M
+CCTV14,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000010000023358&livemode=1&stbId=yu&mode=1&$4M
+CCTV14,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000008170&livemode=1&stbId=yu&mode=1&$8M
+CCTV14,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021349&livemode=1&stbId=yu&mode=1&$4M
+CCTV14,http://111.29.9.36:6610/000000001000/5000000004000006673/index.m3u8?channel-id=bestzb&Contentid=5000000004000006673&livemode=1&stbId=3
+CCTV15,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000005000018417&livemode=1&stbId=yu&mode=1&$4M
+CCTV15,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=yu&mode=1&$8M
+CCTV15,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=yu&mode=1&$4M
+CCTV15,http://111.29.9.36:6610/000000001000/1000000002000008163/index.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=3
+CCTV16,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233001&livemode=1&stbId=yu&mode=1&$4M
+CCTV16,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1&stbId=yu&mode=1&$8M
+CCTV17,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000011000288014&livemode=1&stbId=yu&mode=1&$8M
+CCTV17,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=yu&mode=1&$4M
+CCTV17,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268004&livemode=1&stbId=yu&mode=1&$8M
 港澳频道,#genre#
-無綫新聞台,https://iptv.yang-1989.xyz/hk/8g887n.m3u8?token=85822fb608e8b171d71063128086b8cc3d9b07eb74bcb944
-Now直播台,https://iptv.yang-1989.xyz/hk/8n7fs9.m3u8?token=85822fb608e8b171d71063128086b8cc3d9b07eb74bcb944
-Now新聞台,https://iptv.yang-1989.xyz/hk/jv5w5x.m3u8?token=85822fb608e8b171d71063128086b8cc3d9b07eb74bcb944
-Now財經台,https://iptv.yang-1989.xyz/hk/k9fraa.m3u8?token=85822fb608e8b171d71063128086b8cc3d9b07eb74bcb944
-Now Sports 精選,https://iptv.yang-1989.xyz/hk/wrxgq7.m3u8?token=85822fb608e8b171d71063128086b8cc3d9b07eb74bcb944
-Now Sports 英超,https://iptv.yang-1989.xyz/hkg/h9ak99.m3u8?token=85822fb608e8b171d71063128086b8cc3d9b07eb74bcb944
+無綫新聞台,https://iptv.yang-1989.xyz/hk/pdpjfg.m3u8?token=a1d348c856c84966f303b4e516d615fc93c7be6a8d24c2f8
+Now直播台,https://iptv.yang-1989.xyz/hk/wjzf3n.m3u8?token=a1d348c856c84966f303b4e516d615fc93c7be6a8d24c2f8
+Now新聞台,https://iptv.yang-1989.xyz/hk/jejx9s.m3u8?token=a1d348c856c84966f303b4e516d615fc93c7be6a8d24c2f8
+Now財經台,https://iptv.yang-1989.xyz/hk/jpbu4v.m3u8?token=a1d348c856c84966f303b4e516d615fc93c7be6a8d24c2f8
+Now Sports 精選,https://iptv.yang-1989.xyz/hk/3xgjdc.m3u8?token=a1d348c856c84966f303b4e516d615fc93c7be6a8d24c2f8
+Now Sports 英超,https://iptv.yang-1989.xyz/hkg/8azz6u.m3u8?token=a1d348c856c84966f303b4e516d615fc93c7be6a8d24c2f8
 無綫新聞台,https://cdn.qd.je/163189/wxxw
 無綫新聞台,https://cdn.qd.je/163189/wxxwt
 Now新聞台,https://cdn.qd.je/163189/now
 凤凰中文台,https://cdn.qd.je/163189/fhzw
 凤凰资讯台,https://cdn.qd.je/163189/fhzx
 凤凰香港台,https://cdn.qd.je/163189/fhhk
+AnthonyZ - ✨TONY NPV BADGE OUT NOW!✨!✨TONY CORLEONE (NEW MODEL)✨ Nopixel V NoPixel 5,https://usher.ttvnw.net/api/v2/channel/hls/anthonyz.m3u8?sig=1fc58a966713fc24ce4857ff7b4f931f636b416b&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22anthonyz%22%2C%22channel_id%22%3A119415848%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22a16a5ba3ffd0447ca784b80190dbee98%22%2C%22expires%22%3A1789024511%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22notification_id%22%3Anull%2C%22partner%22%3Afalse%2C%22platform%22%3A%22mobile_web%22%2C%22player_type%22%3A%22site%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3A1520680916%2C%22user_ip%22%3A%22104.22.64.98%22%2C%22version%22%3A3%2C%22maximum_resolution%22%3A%22ULTRA_HD%22%2C%22maximum_video_bitrate_kbps%22%3A12500%2C%22maximum_resolution_reasons%22%3A%7B%7D%2C%22maximum_video_bitrate_kbps_reasons%22%3A%5B%22AUTHZ_DISALLOWED_BITRATE%22%5D%7D&platform=mobile_web&player_type=site&allow_source=true&allow_audio_only=true
+NOWN - SPEEDRUNNING HOW TO FISH,https://pull-f5-tt02.fcdn.eu.tiktokcdn.com/game/stream-3867053456805069774_hd.flv?expire=1790232912&sign=0cba43e2af4eb8abe325d8198c15abc3
+[回放] 东南墨尔本凤凰 vs 新西兰破坏者 100-103 [澳NBL] 2026-09-08 17:30,https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/1552141a5001834819611018715/playlist_eof.m3u8?t=6aa294d7&us=5575c2b34c&sign=ba9a558a3b8e12e6185533fdb9422402
+Now新聞臺,http://173.208.234.146/live/nowxw.m3u8
+Now爆谷臺,http://173.208.234.146/live/nowbg.m3u8
+Now爆谷星影臺,http://173.208.234.146/live/nowxy.m3u8
 無綫新聞台,https://php.946985.filegear-sg.me/tvbnews.php?id=c
 無綫新聞台國際版,https://php.946985.filegear-sg.me/tvbnews.php?id=inews
 NOW 70s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW7
@@ -60,10 +223,21 @@ NOW 80s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW8
 NOW 90s00s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW9
 NOW ROCK,https://php.946985.filegear-sg.me/mytv265.php?id=NOWR
 咪咕频道,#genre#
-睛彩广场舞「Relay」,https://migu.yang-1989.xyz/migu/xmxa42.m3u8?token=8348edddff5e8a60a0584cf9e5e6090312c09c29f6724fa9
-睛彩青少「Relay」,https://migu.yang-1989.xyz/migu/paq6bs.m3u8?token=8348edddff5e8a60a0584cf9e5e6090312c09c29f6724fa9
-睛彩竞技「Relay」,https://migu.yang-1989.xyz/migu/2ab68n.m3u8?token=8348edddff5e8a60a0584cf9e5e6090312c09c29f6724fa9
-睛彩篮球「Relay」,https://migu.yang-1989.xyz/migu/433u38.m3u8?token=8348edddff5e8a60a0584cf9e5e6090312c09c29f6724fa9
+睛彩广场舞「Relay」,https://migu.yang-1989.xyz/migu/r8bcpy.m3u8?token=1aa1c12cab2d202845568baffc17f495784d8fcc4a21426d
+睛彩青少「Relay」,https://migu.yang-1989.xyz/migu/snxx4x.m3u8?token=1aa1c12cab2d202845568baffc17f495784d8fcc4a21426d
+睛彩竞技「Relay」,https://migu.yang-1989.xyz/migu/4mx49p.m3u8?token=1aa1c12cab2d202845568baffc17f495784d8fcc4a21426d
+睛彩篮球「Relay」,https://migu.yang-1989.xyz/migu/pnxwf5.m3u8?token=1aa1c12cab2d202845568baffc17f495784d8fcc4a21426d
+NewTV睛彩竞技,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=yu&mode=1&$8M
+NewTV睛彩竞技,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000006000270001&livemode=1&stbId=yu&mode=1&$8M
+NewTV睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=yu&mode=1&$8M
+NewTV睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000006000270002&livemode=1&stbId=yu&mode=1&$8M
+NewTV睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000006000270006&livemode=1&stbId=yu&mode=1&$8M
+NewTV睛彩青少,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=yu&mode=1&$8M
+NewTV睛彩青少,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000031315&livemode=1&stbId=yu&mode=1&$8M
+NewTV睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=yu&mode=1&$8M
+NewTV睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=yu&mode=1&$8M
+NewTV睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000006000270003&livemode=1&stbId=yu&mode=1&$8M
+NewTV睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000006000270005&livemode=1&stbId=yu&mode=1&$8M
 睛彩广场舞「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
 睛彩青少「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
 睛彩竞技「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
