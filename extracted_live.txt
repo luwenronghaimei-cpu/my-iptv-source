@@ -1,22 +1,22 @@
 广东频道,#genre#
-CCTV 1 綜合「Relay」,https://iptv.yang-1989.xyz/cn/b35bx9.m3u8?token=5d1da4df5b00e547b3b20fab5580990bfa6aa3ed9b03f124
-CCTV 2 財經「Relay」,https://iptv.yang-1989.xyz/cn/p7kmke.m3u8?token=5d1da4df5b00e547b3b20fab5580990bfa6aa3ed9b03f124
-CCTV 3 綜藝「Relay」,https://iptv.yang-1989.xyz/cn/cq43up.m3u8?token=5d1da4df5b00e547b3b20fab5580990bfa6aa3ed9b03f124
-CCTV 4 中文國際「Relay」,https://iptv.yang-1989.xyz/cn/egm85g.m3u8?token=5d1da4df5b00e547b3b20fab5580990bfa6aa3ed9b03f124
-CCTV 5 體育「Relay」,https://iptv.yang-1989.xyz/cn/4u4kr2.m3u8?token=5d1da4df5b00e547b3b20fab5580990bfa6aa3ed9b03f124
-CCTV 5+ 體育賽事「Relay」,https://iptv.yang-1989.xyz/cn/xzqp9g.m3u8?token=5d1da4df5b00e547b3b20fab5580990bfa6aa3ed9b03f124
-CCTV 6 電影「Relay」,https://iptv.yang-1989.xyz/cn/duj4g5.m3u8?token=5d1da4df5b00e547b3b20fab5580990bfa6aa3ed9b03f124
-CCTV 7 國防軍事「Relay」,https://iptv.yang-1989.xyz/cn/zm83vp.m3u8?token=5d1da4df5b00e547b3b20fab5580990bfa6aa3ed9b03f124
-CCTV 8 電視劇「Relay」,https://iptv.yang-1989.xyz/cn/nma6ds.m3u8?token=5d1da4df5b00e547b3b20fab5580990bfa6aa3ed9b03f124
-CCTV 9 記錄「Relay」,https://iptv.yang-1989.xyz/cn/8s868u.m3u8?token=5d1da4df5b00e547b3b20fab5580990bfa6aa3ed9b03f124
-CCTV 10 科教「Relay」,https://iptv.yang-1989.xyz/cn/p35nr7.m3u8?token=5d1da4df5b00e547b3b20fab5580990bfa6aa3ed9b03f124
-CCTV 11 戲曲「Relay」,https://iptv.yang-1989.xyz/cn/55duzg.m3u8?token=5d1da4df5b00e547b3b20fab5580990bfa6aa3ed9b03f124
-CCTV 12 社會與法「Relay」,https://iptv.yang-1989.xyz/cn/r4bsve.m3u8?token=5d1da4df5b00e547b3b20fab5580990bfa6aa3ed9b03f124
-CCTV 13 新聞「Relay」,https://iptv.yang-1989.xyz/cn/9vyfzm.m3u8?token=5d1da4df5b00e547b3b20fab5580990bfa6aa3ed9b03f124
-CCTV 14 少兒「Relay」,https://iptv.yang-1989.xyz/cn/2cyxhg.m3u8?token=5d1da4df5b00e547b3b20fab5580990bfa6aa3ed9b03f124
-CCTV 15 音樂「Relay」,https://iptv.yang-1989.xyz/cn/q6pqed.m3u8?token=5d1da4df5b00e547b3b20fab5580990bfa6aa3ed9b03f124
-CCTV 16 奧林匹克「Relay」,https://iptv.yang-1989.xyz/cn/tq74a5.m3u8?token=5d1da4df5b00e547b3b20fab5580990bfa6aa3ed9b03f124
-CCTV 17 農村農業「Relay」,https://iptv.yang-1989.xyz/cn/2wuk3n.m3u8?token=5d1da4df5b00e547b3b20fab5580990bfa6aa3ed9b03f124
+CCTV 1 綜合「Relay」,https://iptv.yang-1989.xyz/cn/kc2k3c.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+CCTV 2 財經「Relay」,https://iptv.yang-1989.xyz/cn/6hxnnn.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+CCTV 3 綜藝「Relay」,https://iptv.yang-1989.xyz/cn/v2mxxj.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+CCTV 4 中文國際「Relay」,https://iptv.yang-1989.xyz/cn/wcwfby.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+CCTV 5 體育「Relay」,https://iptv.yang-1989.xyz/cn/y3jmzw.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+CCTV 5+ 體育賽事「Relay」,https://iptv.yang-1989.xyz/cn/6ume82.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+CCTV 6 電影「Relay」,https://iptv.yang-1989.xyz/cn/99g2g5.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+CCTV 7 國防軍事「Relay」,https://iptv.yang-1989.xyz/cn/zaxhmt.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+CCTV 8 電視劇「Relay」,https://iptv.yang-1989.xyz/cn/9bkxbs.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+CCTV 9 記錄「Relay」,https://iptv.yang-1989.xyz/cn/kqqkz9.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+CCTV 10 科教「Relay」,https://iptv.yang-1989.xyz/cn/jzbzqr.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+CCTV 11 戲曲「Relay」,https://iptv.yang-1989.xyz/cn/rs997w.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+CCTV 12 社會與法「Relay」,https://iptv.yang-1989.xyz/cn/gt79rw.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+CCTV 13 新聞「Relay」,https://iptv.yang-1989.xyz/cn/5dnaj2.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+CCTV 14 少兒「Relay」,https://iptv.yang-1989.xyz/cn/6avnny.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+CCTV 15 音樂「Relay」,https://iptv.yang-1989.xyz/cn/fe3x3n.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+CCTV 16 奧林匹克「Relay」,https://iptv.yang-1989.xyz/cn/baj3ve.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+CCTV 17 農村農業「Relay」,https://iptv.yang-1989.xyz/cn/rdg75g.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
 CCTV1,https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
 CCTV2,https://php.jdshipin.com/TVOD/iptv.php?id=cctv2
 CCTV3,https://php.jdshipin.com/TVOD/iptv.php?id=cctv3
@@ -41,12 +41,12 @@ CCTV16,https://cdn.qd.je/163189/cctv16-2
 CCTV17,https://php.jdshipin.com/TVOD/iptv.php?id=cctv17
 广东珠江,https://cdn.qd.je/163189/gdzj
 港澳频道,#genre#
-無綫新聞台「3小时回看」,https://iptv.yang-1989.xyz/hk/y3y49k.m3u8?token=5d1da4df5b00e547b3b20fab5580990bfa6aa3ed9b03f124
-Now直播台,https://iptv.yang-1989.xyz/hk/23fqrn.m3u8?token=5d1da4df5b00e547b3b20fab5580990bfa6aa3ed9b03f124
-Now新聞台,https://iptv.yang-1989.xyz/hk/rsfg69.m3u8?token=5d1da4df5b00e547b3b20fab5580990bfa6aa3ed9b03f124
-Now財經台,https://iptv.yang-1989.xyz/hk/fq5fq3.m3u8?token=5d1da4df5b00e547b3b20fab5580990bfa6aa3ed9b03f124
-Now Sports 精選,https://iptv.yang-1989.xyz/hk/7rejc2.m3u8?token=5d1da4df5b00e547b3b20fab5580990bfa6aa3ed9b03f124
-Now Sports 英超,https://iptv.yang-1989.xyz/hkg/9v2k2h.m3u8?token=5d1da4df5b00e547b3b20fab5580990bfa6aa3ed9b03f124
+無綫新聞台「3小时回看」,https://iptv.yang-1989.xyz/hk/yj43ks.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+Now直播台,https://iptv.yang-1989.xyz/hk/vexbne.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+Now新聞台,https://iptv.yang-1989.xyz/hk/432hbx.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+Now財經台,https://iptv.yang-1989.xyz/hk/r6zfur.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+Now Sports 精選,https://iptv.yang-1989.xyz/hk/hzm6ae.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
+Now Sports 英超,https://iptv.yang-1989.xyz/hkg/myeeud.m3u8?token=d600018f898a42ce76cd6810129d134bd20243cd2f375022
 無綫新聞台,https://cdn.qd.je/163189/wxxw
 無綫新聞台,https://cdn.qd.je/163189/wxxwt
 Now新聞台,https://cdn.qd.je/163189/now
@@ -60,10 +60,10 @@ NOW 80s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW8
 NOW 90s00s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW9
 NOW ROCK,https://php.946985.filegear-sg.me/mytv265.php?id=NOWR
 咪咕频道,#genre#
-睛彩广场舞「Relay」,https://migu.yang-1989.xyz/migu/3z252q.m3u8?token=fd9d25268909c5508e4706254aa0096a002475849064083d
-睛彩青少「Relay」,https://migu.yang-1989.xyz/migu/vwsz7z.m3u8?token=fd9d25268909c5508e4706254aa0096a002475849064083d
-睛彩竞技「Relay」,https://migu.yang-1989.xyz/migu/srzxka.m3u8?token=fd9d25268909c5508e4706254aa0096a002475849064083d
-睛彩篮球「Relay」,https://migu.yang-1989.xyz/migu/49fb8a.m3u8?token=fd9d25268909c5508e4706254aa0096a002475849064083d
+睛彩广场舞「Relay」,https://migu.yang-1989.xyz/migu/u385ak.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+睛彩青少「Relay」,https://migu.yang-1989.xyz/migu/sqk3gg.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+睛彩竞技「Relay」,https://migu.yang-1989.xyz/migu/7znqu3.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
+睛彩篮球「Relay」,https://migu.yang-1989.xyz/migu/td8hbh.m3u8?token=13b424c8b7f5169089b2cdf17650f5ed922b04c8fac7b983
 睛彩广场舞「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
 睛彩青少「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
 睛彩竞技「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
