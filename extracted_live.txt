@@ -1,24 +1,24 @@
 广东频道,#genre#
-CCTV 1 综合「Relay」,https://migu.yang-1989.xyz/ysp/jxqthc.m3u8
-CCTV 2 财经「Relay」,https://migu.yang-1989.xyz/ysp/2qg9nz.m3u8
-CCTV 3 综艺「Relay」,https://migu.yang-1989.xyz/ysp/m2jday.m3u8
-CCTV 4 中文国际「Relay」,https://migu.yang-1989.xyz/ysp/3v73k4.m3u8
-CCTV 5 体育「Relay」,https://migu.yang-1989.xyz/ysp/duyk4m.m3u8
-CCTV 5+ 体育赛事「Relay」,https://migu.yang-1989.xyz/ysp/qcnzf3.m3u8
-CCTV 6 电影「Relay」,https://migu.yang-1989.xyz/ysp/vayeb8.m3u8
-CCTV 7 国防军事「Relay」,https://migu.yang-1989.xyz/ysp/27pnz8.m3u8
-CCTV 8 电视剧「Relay」,https://migu.yang-1989.xyz/ysp/2pdss9.m3u8
-CCTV 9 纪录「Relay」,https://migu.yang-1989.xyz/ysp/2s6gu4.m3u8
-CCTV 10 科教「Relay」,https://migu.yang-1989.xyz/ysp/z52yb2.m3u8
-CCTV 11 戏曲「Relay」,https://migu.yang-1989.xyz/ysp/eqpa5q.m3u8
-CCTV 12 社会与法「Relay」,https://migu.yang-1989.xyz/ysp/sw3vft.m3u8
-CCTV 13 新闻「Relay」,https://migu.yang-1989.xyz/ysp/u669uk.m3u8
-CCTV 14 少儿「Relay」,https://migu.yang-1989.xyz/ysp/8j6vez.m3u8
-CCTV 15 音乐「Relay」,https://migu.yang-1989.xyz/ysp/58xzpk.m3u8
-CCTV 16 奥林匹克「Relay」,https://migu.yang-1989.xyz/ysp/zmj85x.m3u8
-CCTV 17 农村农业「Relay」,https://migu.yang-1989.xyz/ysp/9rg4bz.m3u8
-CCTV 4K 超高清「Relay」,https://migu.yang-1989.xyz/ysp/vuu2ws.m3u8
-CCTV 8K 超高清「Relay」,https://migu.yang-1989.xyz/ysp/e9eudc.m3u8
+CCTV 1 综合「Relay」,https://migu.yang-1989.xyz/ysp/bb4ttp.m3u8
+CCTV 2 财经「Relay」,https://migu.yang-1989.xyz/ysp/qcj7mq.m3u8
+CCTV 3 综艺「Relay」,https://migu.yang-1989.xyz/ysp/ne2kw4.m3u8
+CCTV 4 中文国际「Relay」,https://migu.yang-1989.xyz/ysp/fxegn4.m3u8
+CCTV 5 体育「Relay」,https://migu.yang-1989.xyz/ysp/ntge42.m3u8
+CCTV 5+ 体育赛事「Relay」,https://migu.yang-1989.xyz/ysp/ycx924.m3u8
+CCTV 6 电影「Relay」,https://migu.yang-1989.xyz/ysp/v3dgjy.m3u8
+CCTV 7 国防军事「Relay」,https://migu.yang-1989.xyz/ysp/8y9r3e.m3u8
+CCTV 8 电视剧「Relay」,https://migu.yang-1989.xyz/ysp/yvy3gz.m3u8
+CCTV 9 纪录「Relay」,https://migu.yang-1989.xyz/ysp/5y5v9w.m3u8
+CCTV 10 科教「Relay」,https://migu.yang-1989.xyz/ysp/6jspgw.m3u8
+CCTV 11 戏曲「Relay」,https://migu.yang-1989.xyz/ysp/788t5x.m3u8
+CCTV 12 社会与法「Relay」,https://migu.yang-1989.xyz/ysp/7gb7nj.m3u8
+CCTV 13 新闻「Relay」,https://migu.yang-1989.xyz/ysp/pmmzv2.m3u8
+CCTV 14 少儿「Relay」,https://migu.yang-1989.xyz/ysp/f8tk5h.m3u8
+CCTV 15 音乐「Relay」,https://migu.yang-1989.xyz/ysp/29mhzy.m3u8
+CCTV 16 奥林匹克「Relay」,https://migu.yang-1989.xyz/ysp/4nb5en.m3u8
+CCTV 17 农村农业「Relay」,https://migu.yang-1989.xyz/ysp/jtgex4.m3u8
+CCTV 4K 超高清「Relay」,https://migu.yang-1989.xyz/ysp/h7zpzr.m3u8
+CCTV 8K 超高清「Relay」,https://migu.yang-1989.xyz/ysp/pf2mkk.m3u8
 CCTV1,https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
 CCTV2,https://php.jdshipin.com/TVOD/iptv.php?id=cctv2
 CCTV3,https://php.jdshipin.com/TVOD/iptv.php?id=cctv3
@@ -43,11 +43,11 @@ CCTV16,https://cdn.qd.je/163189/cctv16-2
 CCTV17,https://php.jdshipin.com/TVOD/iptv.php?id=cctv17
 广东珠江,https://cdn.qd.je/163189/gdzj
 港澳频道,#genre#
-無綫新聞台「3小时回看」,https://iptv.yang-1989.xyz/hk/fke66g.m3u8
-Now直播台「Relay」,https://iptv.yang-1989.xyz/hk/p3uccw.m3u8
-Now新聞台「Relay」,https://iptv.yang-1989.xyz/hk/kawu72.m3u8
-Now財經台「Relay」,https://iptv.yang-1989.xyz/hk/5fft9t.m3u8
-Now Sports 精選「Relay」,https://iptv.yang-1989.xyz/hk/7533r6.m3u8
+無綫新聞台「3小时回看」,https://iptv.yang-1989.xyz/hk/vec5zz.m3u8
+Now直播台「Relay」,https://iptv.yang-1989.xyz/hk/mztb3c.m3u8
+Now新聞台「Relay」,https://iptv.yang-1989.xyz/hk/jgdpmx.m3u8
+Now財經台「Relay」,https://iptv.yang-1989.xyz/hk/g7ahj7.m3u8
+Now Sports 精選「Relay」,https://iptv.yang-1989.xyz/hk/2bjpdd.m3u8
 無綫新聞台,https://cdn.qd.je/163189/wxxw
 無綫新聞台,https://cdn.qd.je/163189/wxxwt
 Now新聞台,https://cdn.qd.je/163189/now
@@ -61,10 +61,10 @@ NOW 80s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW8
 NOW 90s00s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW9
 NOW ROCK,https://php.946985.filegear-sg.me/mytv265.php?id=NOWR
 咪咕频道,#genre#
-睛彩广场舞「Relay」,https://migu.yang-1989.xyz/migu/ycwtk7.m3u8
-睛彩青少「Relay」,https://migu.yang-1989.xyz/migu/hq2a6p.m3u8
-睛彩竞技「Relay」,https://migu.yang-1989.xyz/migu/khpxgw.m3u8
-睛彩篮球「Relay」,https://migu.yang-1989.xyz/migu/etytxy.m3u8
+睛彩广场舞「Relay」,https://migu.yang-1989.xyz/migu/w4zba5.m3u8
+睛彩青少「Relay」,https://migu.yang-1989.xyz/migu/m6kr5j.m3u8
+睛彩竞技「Relay」,https://migu.yang-1989.xyz/migu/xhcnwt.m3u8
+睛彩篮球「Relay」,https://migu.yang-1989.xyz/migu/p2v8kx.m3u8
 睛彩广场舞「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
 睛彩青少「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
 睛彩竞技「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
