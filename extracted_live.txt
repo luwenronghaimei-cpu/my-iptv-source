@@ -43,11 +43,11 @@ CCTV16,https://cdn.qd.je/163189/cctv16-2
 CCTV17,https://php.jdshipin.com/TVOD/iptv.php?id=cctv17
 广东珠江,https://cdn.qd.je/163189/gdzj
 港澳频道,#genre#
-無綫新聞台「Relay」,https://iptv.yang-1989.xyz/hk/jhad9p.m3u8
-Now直播台「Relay」,https://iptv.yang-1989.xyz/hk/dmjgje.m3u8
-Now新聞台「Relay」,https://iptv.yang-1989.xyz/hk/h27p8d.m3u8
-Now財經台「Relay」,https://iptv.yang-1989.xyz/hk/4jg7cz.m3u8
-Now Sports 精選「Relay」,https://iptv.yang-1989.xyz/hk/5gjzaf.m3u8
+無綫新聞台「Relay」,https://iptv.yang-1989.xyz/hk/zsyydx.m3u8
+Now直播台「Relay」,https://iptv.yang-1989.xyz/hk/wxxbjz.m3u8
+Now新聞台「Relay」,https://iptv.yang-1989.xyz/hk/fsjrt6.m3u8
+Now財經台「Relay」,https://iptv.yang-1989.xyz/hk/jjspd8.m3u8
+Now Sports 精選「Relay」,https://iptv.yang-1989.xyz/hk/4f2svf.m3u8
 無綫新聞台,https://cdn.qd.je/163189/wxxw
 無綫新聞台,https://cdn.qd.je/163189/wxxwt
 Now新聞台,https://cdn.qd.je/163189/now
